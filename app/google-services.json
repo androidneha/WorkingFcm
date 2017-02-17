@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860544266324",
+    "firebase_url": "https://finalfcm-c4717.firebaseio.com",
+    "project_id": "finalfcm-c4717",
+    "storage_bucket": "finalfcm-c4717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860544266324:android:8c5f6748ed04eec4",
+        "android_client_info": {
+          "package_name": "com.example.finalfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860544266324-j32ar4q81figt4m5g64f9g0aq907eitb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tquSTBN1HRSAjcxHxUxy075rXEp5NMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860544266324-j32ar4q81figt4m5g64f9g0aq907eitb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
